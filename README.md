@@ -2,6 +2,9 @@
 
 Video Conferencing solution that works on Android & iOS! 
 
+## Download
+[Meet JIT](https://drive.google.com/file/d/10JTwiyZI3wox1YNkNqwr0wakWv8VmOcf/view?usp=sharing)
+
 ## Features
 1. Google Sign In
 2. Create New Meeting
